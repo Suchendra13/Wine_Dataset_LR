@@ -14,4 +14,5 @@
  This project utilises the standard `load_wine` dataset to classify the target into **3 classes** - *class_0,class_1 and class_2* based upon it's features. This projects demonstrates the use of **logistic regression** to *classifiy* the *dataset*.We create a *dataframe* using `panda library` to create the **features matrix ( X )** and **target vector ( y )**.
 
 ## Exploratory Data Analysis
-   
+1. We have plotted a histogram of all the wine features which highlights about the characteristics of each feature!
+2. 
