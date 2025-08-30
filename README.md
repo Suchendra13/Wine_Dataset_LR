@@ -3,7 +3,7 @@
 
 # Contents
 1. [Dataset](#dataset)
-2. [Exploratory Data Analysis](#exploratory-data-analsyis)
+2. [Exploratory Data Analysis](#exploratory-data-analysis)
 3. [Scaling](#scaling)
 4. [Evaluation](#evaluation)
 5. [Libraries Used](#libraries-used)
