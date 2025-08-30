@@ -25,7 +25,9 @@
 
 ## Evaluation
  After applying the Logistic Regression Model we got,
+ 
  Accuracy of *Logistic Regression*: **0.9722**
+ 
  *Classification Report* of `Logistic Regression`:
                precision    recall  f1-score   support
 
