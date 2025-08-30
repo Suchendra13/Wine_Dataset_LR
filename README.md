@@ -44,6 +44,21 @@ weighted avg       0.97      0.97      0.97        36
     We used the python libraries which include numpy, matplotlib, pandas, seaborn and scikit-learn.
 
 ## How to Run
-
+1.  **Clone the repository** (if you haven't already):
+    ```bash
+    git clone [https://github.com/Suchendra13/Wine_Dataset_LR.git](https://github.com/Suchendra13/Wine_Dataset_LR.git)
+    cd Wine_Dataset_LR
+    ```
+2.  **Ensure you have Jupyter Notebook installed** or use a compatible IDE (e.g., VS Code with Jupyter extensions).
+3.  **Install the required Python libraries**:
+    ```bash
+    pip install pandas numpy matplotlib seaborn scikit-learn
+    ```
+4.  **Open the Jupyter Notebook**:
+    ```bash
+    jupyter notebook Wine_Dataset_LR.ipynb
+    ```
+5.  **Run all cells** in the notebook.
+   
 ## Acknowledgements
  We have used the standard **scikit-learn library** i.e. `load_wine dataset` for the *educational purposes*.
