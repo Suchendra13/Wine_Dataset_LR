@@ -41,7 +41,7 @@
 weighted avg       0.97      0.97      0.97        36
 
 ## Libraries Used
-    We used the python libraries which include `numpy`, `matplotlib`, `pandas`, `seaborn` and `scikit-learn`.
+    We used the python libraries which include numpy, matplotlib, pandas, seaborn and scikit-learn.
 
 ## How to Run
 
