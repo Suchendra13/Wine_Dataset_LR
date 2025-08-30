@@ -1,5 +1,5 @@
 # Classification of Wine Types using the Logistic Regression
- This project helps us to classify the type of wine based upon the features such as color intensity, presence of magnesium, phenols,etc.
+ This *project* helps us to **classify** the type of wine based upon the `features` such as **color intensity, presence of magnesium, phenols**,etc.
 
 # Contents
 1. [Dataset](#dataset)
